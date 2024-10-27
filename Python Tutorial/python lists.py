@@ -10,6 +10,7 @@ There are four collection data types in the Python programming language:
 """
 # List
 List items are indexed, the first item has index [0], the second item has index [1]
+-1 refers to the last item, -2 refers to the second last item etc.
 # List are ordered
 # we can change values on a list
 # Since lists are indexed, lists can have items with the same value
@@ -21,4 +22,5 @@ print(type(mylist))
 # list()
 thislist = list(("apple", "banana", "cherry"))
 print(thislist)
+
 
